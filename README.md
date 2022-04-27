@@ -24,6 +24,7 @@ Save the program and run the program in visual studio 2022.
 
 
 ## Program:
+```
 using System;
 class HelloWorld
 {
@@ -44,7 +45,7 @@ class HelloWorld
 
     }
 }
-
+```
 ## Output:
 ![image](https://user-images.githubusercontent.com/75241366/165438421-507e1d11-e021-4199-9203-6992e47b8d91.png)
 
